@@ -1,0 +1,15 @@
+{
+  "name": "cyberdelia-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "five-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "five-server": "^0.3.3"
+  }
+}
